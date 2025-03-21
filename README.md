@@ -9,7 +9,7 @@ This repository provides a comprehensive guide to setting up a network security 
 
 ## 📋Structure
 ### 🚨IDS/IPS (Intrusion Detection/Prevention Systems)
-- Suricata –> High-performance, rule-based threat detection engine.
+- [Suricata](https://github.com/JPablo13/SIEM-and-Network-Security-Lab/tree/main/IDS-IPS/Suricata) –> High-performance, rule-based threat detection engine.
 - Snort –> Open-source network intrusion detection/prevention system.
 ### 🛡️Firewall
 - PfSense –> Open-source firewall and router platform with advanced security features.
