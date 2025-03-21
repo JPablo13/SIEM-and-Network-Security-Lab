@@ -8,9 +8,9 @@ This repository provides a comprehensive guide to setting up a network security 
 - Linux/Windows-based systems for testing.
 
 ## 📋Structure
-### 🚨IDS/IPS (Intrusion Detection/Prevention Systems)
+### [🚨IDS/IPS](https://github.com/JPablo13/SIEM-and-Network-Security-Lab/tree/main/IDS-IPS)
 - [Suricata](https://github.com/JPablo13/SIEM-and-Network-Security-Lab/tree/main/IDS-IPS/Suricata) –> High-performance, rule-based threat detection engine.
-- Snort –> Open-source network intrusion detection/prevention system.
+- [Snort](https://github.com/JPablo13/SIEM-and-Network-Security-Lab/tree/main/IDS-IPS/Snort) –> Open-source network intrusion detection/prevention system.
 ### 🛡️Firewall
 - PfSense –> Open-source firewall and router platform with advanced security features.
 ### ⚠️ SIEM (Security Information and Event Management)
